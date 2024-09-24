@@ -1,0 +1,14 @@
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.AssemblyInfoInputs.cache
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.AssemblyInfo.cs
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.csproj.CoreCompileInputs.cache
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/bin/Debug/net8.0/Bloggen
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/bin/Debug/net8.0/Bloggen.deps.json
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/bin/Debug/net8.0/Bloggen.runtimeconfig.json
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/bin/Debug/net8.0/Bloggen.dll
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/bin/Debug/net8.0/Bloggen.pdb
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.dll
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/refint/Bloggen.dll
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.pdb
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/Bloggen.genruntimeconfig.cache
+/Users/axelschubert/Desktop/NTI/Bloggen/Bloggen/obj/Debug/net8.0/ref/Bloggen.dll
